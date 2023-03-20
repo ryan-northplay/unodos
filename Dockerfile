@@ -1,4 +1,4 @@
-FROM node:14.17
+FROM node:14.21.3
 
 RUN mkdir -p /uno
 
